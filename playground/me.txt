@@ -1,0 +1,5 @@
+{{#user}}
+Name: C Sai Rithwik Reddy
+Skills: Back-End Development, Database Management, Python
+Email: imrithwik1908@gmail.com
+{{/user}}
